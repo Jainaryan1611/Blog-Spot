@@ -1,0 +1,34 @@
+{
+  "blogs": [
+    {
+      "title": "WEB DEV",
+      "body": "React JS,HTML,CSS,JS",
+      "author": "Deepak",
+      "id": 7
+    },
+    {
+      "title": "Djikstras algorithm",
+      "body": "shortest path algorithm",
+      "author": "gfg",
+      "id": 8
+    },
+    {
+      "title": "Dynamic Programming",
+      "body": "I want to practice it but I can't",
+      "author": "Soumya Chaudhary",
+      "id": 9
+    },
+    {
+      "title": "ggg",
+      "body": "sdddddddddddd",
+      "author": "dssssssssssss",
+      "id": 10
+    },
+    {
+      "title": "ggg",
+      "body": "sddddddd",
+      "author": "sdddd",
+      "id": 11
+    }
+  ]
+}
